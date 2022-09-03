@@ -1,0 +1,5 @@
+#!/bin/bash
+Name=Vijay
+Age=27
+
+echo "My name is $Name and Age is $Age"
